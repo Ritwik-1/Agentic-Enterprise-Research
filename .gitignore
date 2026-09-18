@@ -1,0 +1,4 @@
+EraEnv/
+.env
+__pycache__/
+*.pyc
